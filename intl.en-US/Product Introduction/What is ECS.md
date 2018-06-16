@@ -39,7 +39,8 @@ Server Load Balancer distributes the incoming traffic among multiple ECS instanc
 
 CloudMonitor manages ECS instances, system disks, Internet bandwidth, and other resources. For more information, see [Introduction to CloudMonitor](https://www.alibabacloud.com/help/doc-detail/35170.htm).
 
-Server Guard \(Server Security\) provides real-time awareness and defense against intrusion events, which safeguards the security of your ECS instances. For more information, see [What is Server Guard](https://www.alibabacloud.com/help/doc-detail/28451.htm).
+Server Gua
+rd \(Server Security\) provides real-time awareness and defense against intrusion events, which safeguards the security of your ECS instances. For more information, see [What is Server Guard](https://www.alibabacloud.com/help/doc-detail/28451.htm).
 
 Anti-DDoS Basic prevents and mitigates DDoS attacks by routing traffic away from your infrastructure. Alibaba Cloud Anti-DDoS Pro safeguards your ECS instances under high volume DDoS attacks. For more information, see [What is Anti-DDoS Basic](https://www.alibabacloud.com/help/doc-detail/28399.htm) and [What is Anti-DDoS Pro](https://www.alibabacloud.com/help/doc-detail/28464.htm).
 
@@ -50,4 +51,3 @@ Alibaba Cloud SDK enables you to access to Alibaba Cloud services and to manage 
 ECS supports both Subscription and Pay-As-You-Go as billing methods.  For more information, see [Billing methods](../intl.en-US/Pricing/Pricing overview.md#) .
 
 For the price information, see the [Pricing](https://www.alibabacloud.com/product/ecs) page.
-
