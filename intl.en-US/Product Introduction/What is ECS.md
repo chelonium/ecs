@@ -30,25 +30,24 @@ Know the basic concepts before you proceed to use ECS:
 
 ## Related services {#section_ogy_tqj_ydb .section}
 
-Alibaba Cloud marketplace is an online market.  You can purchase software infrastructure, developer tools, and business software provided by third-party partners.  You can become a marketplace service provider. 
+Alibaba Cloud marketplace is an online market. You can purchase software infrastructure, developer tools, and business software provided by third-party partners. You can become a marketplace service provider. 
 
-Auto Scaling enables you to dynamically scale your computing capacity up or down to meet the workload of your ECS instances according to scaling policies you specify, and to reduce the need of manual provision.  For more information, see [What is Auto Scaling](https://www.alibabacloud.com/help/zh/product/25855.htm).
+Auto Scaling enables you to dynamically scale your computing capacity up or down to meet the workload of your ECS instances according to scaling policies you specify, and to reduce the need of manual provision. For more information, see [What is Auto Scaling](https://www.alibabacloud.com/help/doc-detail/25857.htm).
 
-Container Service enables you to manage the lifecycle of containerized applications by using Docker and Kubernetes. For more information, see  [What is Container Service](https://www.alibabacloud.com/help/zh/product/25972.htm).
+Container Service enables you to manage the lifecycle of containerized applications by using Docker and Kubernetes. For more information, see [What is Container Service](https://www.alibabacloud.com/help/doc-detail/25974.htm).
 
-Server Load Balancer distributes the incoming traffic among multiple ECS instances according to the configured forwarding rules.Load Balancing services where you can distribute traffic across multiple cloud server ECS. For more information, see   [What is Server Load Balancer](https://www.alibabacloud.com/help/zh/product/27537.htm).
+Server Load Balancer distributes the incoming traffic among multiple ECS instances according to the configured forwarding rules.Load Balancing services where you can distribute traffic across multiple cloud server ECS. For more information, see [What is Server Load Balancer](https://www.alibabacloud.com/help/doc-detail/27539.htm).
 
-CloudMonitor manages ECS instances, system disks, Internet bandwidth, and other resources.  For more information, see [Introduction to CloudMonitor](https://www.alibabacloud.com/help/zh/product/28572.htm).
+CloudMonitor manages ECS instances, system disks, Internet bandwidth, and other resources. For more information, see [Introduction to CloudMonitor](https://www.alibabacloud.com/help/doc-detail/35170.htm).
 
-Server Guard \(Server Security\) provides real-time awareness and defense against intrusion events, which safeguards the security of your ECS instances. For more information, see [What is Server Guard](https://www.alibabacloud.com/help/zh/product/28449.htm).
+Server Guard \(Server Security\) provides real-time awareness and defense against intrusion events, which safeguards the security of your ECS instances. For more information, see [What is Server Guard](https://www.alibabacloud.com/help/doc-detail/28451.htm).
 
-Anti-DDoS Basic prevents and mitigates DDoS attacks by routing traffic away from your infrastructure. Alibaba Cloud Anti-DDoS Pro safeguards your ECS instances under high volume DDoS attacks. For more information, see  [What is Anti-DDoS Basic](https://www.alibabacloud.com/help/zh/product/28461.htm) and What is Anti-DDoS Pro.
+Anti-DDoS Basic prevents and mitigates DDoS attacks by routing traffic away from your infrastructure. Alibaba Cloud Anti-DDoS Pro safeguards your ECS instances under high volume DDoS attacks. For more information, see [What is Anti-DDoS Basic](https://www.alibabacloud.com/help/doc-detail/28399.htm) and [What is Anti-DDoS Pro](https://www.alibabacloud.com/help/doc-detail/28464.htm).
 
-Alibaba Cloud SDK enables you to access to Alibaba Cloud services and to manage your applications based on the language of your choice. For more information, see [Developer Resources](https://www.alibabacloud.com/zh/support/developer-resources).  You can use  [OpenAPI Explorer](https://api.aliyun.com/) to debug ECS API and generate the SDK Demo.API and generate the corresponding sdk demo code.
+Alibaba Cloud SDK enables you to access to Alibaba Cloud services and to manage your applications based on the language of your choice. For more information, see [Developer Resources](https://www.alibabacloud.com/support/developer-resources). You can use [OpenAPI Explorer](https://api.aliyun.com/) to debug ECS API and generate the SDK Demo.API and generate the corresponding sdk demo code.
 
 ## Pricing and billing {#section_vq5_brj_ydb .section}
 
 ECS supports both Subscription and Pay-As-You-Go as billing methods.  For more information, see [Billing methods](../intl.en-US/Pricing/Pricing overview.md#) .
 
-For the price information, see the [Pricing](https://www.alibabacloud.com/zh/product/ecs) page.
-
+For the price information, see the [Pricing](https://www.alibabacloud.com/product/ecs) page.
